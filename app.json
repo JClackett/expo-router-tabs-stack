@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "userInterfaceStyle": "automatic",
+    "orientation": "default",
+    "experiments": {
+      "typedRoutes": true
+    },
+    "web": {
+      "output": "static",
+      "bundler": "metro"
+    },
+    "plugins": [["expo-router", { "origin": "https://n" }]],
+    "name": "expo-router-tabs-stack",
+    "slug": "expo-router-tabs-stack"
+  }
+}
